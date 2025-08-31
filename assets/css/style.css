@@ -1,10 +1,14 @@
 p{
-    color: red;
-    font-size: 10px;
+    color: rgb(241, 200, 231);
+    font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    text-align: center;
-    background-color: yellow;
-    border: 1px solid black;
+    text-align: left;
+    background-color: rgba(136, 24, 119, 0.788);
+    border: 2px solid rgb(204, 151, 177);
     border-radius: 10px;
+    padding: 6px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
 }
