@@ -1,0 +1,10 @@
+p{
+    color: red;
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    background-color: yellow;
+    border: 1px solid black;
+    border-radius: 10px;
+}
